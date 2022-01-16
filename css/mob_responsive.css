@@ -1,0 +1,73 @@
+@media(max-width: 455px){
+	
+      .moblogo{
+      	width: 104px;
+      display:block;
+	}
+	.mds{
+		display: block;
+	} 
+	
+	.dds{
+		display: none;
+	}
+	.firstlogo{
+		display:none;
+	}
+	.mcw{height: 415px;
+	width: 313px;
+	
+}
+.mdss{
+	margin-top: 55px;
+	}
+	.cws{
+		width: 354px;
+}
+}
+/*.cww{
+	width: 335px;
+}*/
+.mbutt{
+	font-size: 26px;
+    font-style: italic;
+    font-family: monospace;
+	margin-left: 0px;
+}
+.mfootlogo img{
+	width: 248px;
+
+}
+.mpotttt img{
+	width: 311px;
+    height: 318px;
+}
+
+
+/*story page css start*/
+.martist img{
+	    width: 315px;
+}
+
+
+
+.line1a img{
+	height: 339px;
+    width: 285px;
+}
+.line2a img{
+	height: 339px;
+    width: 288px;
+}
+
+
+.mobbanner img{
+	width: 100%;
+}
+/*.artists{
+	display: none;
+}*/
+/*.martist{
+	display: block;
+}*/
+}

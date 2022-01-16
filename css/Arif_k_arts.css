@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+    		/*background: #000000b3;*/
+    		background: linear-gradient(to bottom,black,#0d14f6);
+} 
+   
+
+.navbar-nav li{
+    		padding: 0 10px;
+    	
+}
+
+.CNAB{
+	background: linear-gradient(to bottom,#0d14f6,black);
+}
+
+
+
+.moblogo{
+	display: none;
+}
+.dss{
+	margin-top: 13px;
+}
+.cw{height: 415px;
+	width: 250px;
+	
+}
+.cww {
+	width: 282px;
+}
+.ecww h4{
+	text-align: center;
+}
+.ecww h5{
+	text-align: center;
+}
+.ecww p{
+	text-align: center;
+}
+.cimg{
+	height: 300px;
+}
+.butt{
+	font-size: 26px;
+    font-style: italic;
+    font-family: monospace;
+	margin-top: 66px;
+	background: #b46c30;
+    height: 56px;
+    width: 260px;
+    color: white;
+    border-radius: 7px;
+    border-style: none;
+}
+.mds{
+		display: none;
+	}
+	
+.firstbtn a button:hover{
+	color: yellow;
+	background: black;
+}
+.secoundbtn a button:hover{
+	color: yellow;
+	background: black;
+}
+.potttt img{
+     width: 554px;
+    height: 318px;}
+
+.ecw{
+	height: 339px;
+    width: 266px;
+}
+.fs{
+	font-size: 2em;
+
+}
+.foot{
+	background: linear-gradient(to bottom,black,#0d14f6);
+}
+.EXX{
+	background: white;
+}
+.h11{
+	font-family: font-family: 'Shizuru', cursive;
+}
+
+
+.dfootlogo img{
+	width: 312px;
+}
+
+.firstbtn{
+	background: url('..//images/Untitled design.png');
+	background-attachment: fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 300px;
+	width: 100%;
+}
+.secoundbtn{
+	background: url('..//images/secound back attechment.png');
+	background-attachment: fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 300px;
+	width: 100%;
+}
+/*story page css start*/
+.artists img{
+	width: 368px;
+}
+
+
+/*gallary css start*/
+.gim img{
+	width: 318px;
+    margin-bottom: 20px;
+}
+
+
+
+.line1 img{
+	height: 339px;
+    width: 359px;
+}
+.line2 img{
+	height: 339px;
+    width: 259px;
+}
+
+.deskbanner img{
+	width: 100%;
+}
+
+.martist{
+	display: none;
+}
+
+.hhhhh li a:hover{
+	color: yellow;
+	background: #ff0000a3;
+}
